@@ -1,0 +1,13 @@
+C:\Users\serge\source\repos\Random_Fractional\Random_Fractional\bin\Debug\netcoreapp3.1\Random_Fractional.exe
+C:\Users\serge\source\repos\Random_Fractional\Random_Fractional\bin\Debug\netcoreapp3.1\Random_Fractional.deps.json
+C:\Users\serge\source\repos\Random_Fractional\Random_Fractional\bin\Debug\netcoreapp3.1\Random_Fractional.runtimeconfig.json
+C:\Users\serge\source\repos\Random_Fractional\Random_Fractional\bin\Debug\netcoreapp3.1\Random_Fractional.runtimeconfig.dev.json
+C:\Users\serge\source\repos\Random_Fractional\Random_Fractional\bin\Debug\netcoreapp3.1\Random_Fractional.dll
+C:\Users\serge\source\repos\Random_Fractional\Random_Fractional\bin\Debug\netcoreapp3.1\Random_Fractional.pdb
+C:\Users\serge\source\repos\Random_Fractional\Random_Fractional\obj\Debug\netcoreapp3.1\Random_Fractional.csprojAssemblyReference.cache
+C:\Users\serge\source\repos\Random_Fractional\Random_Fractional\obj\Debug\netcoreapp3.1\Random_Fractional.AssemblyInfoInputs.cache
+C:\Users\serge\source\repos\Random_Fractional\Random_Fractional\obj\Debug\netcoreapp3.1\Random_Fractional.AssemblyInfo.cs
+C:\Users\serge\source\repos\Random_Fractional\Random_Fractional\obj\Debug\netcoreapp3.1\Random_Fractional.csproj.CoreCompileInputs.cache
+C:\Users\serge\source\repos\Random_Fractional\Random_Fractional\obj\Debug\netcoreapp3.1\Random_Fractional.dll
+C:\Users\serge\source\repos\Random_Fractional\Random_Fractional\obj\Debug\netcoreapp3.1\Random_Fractional.pdb
+C:\Users\serge\source\repos\Random_Fractional\Random_Fractional\obj\Debug\netcoreapp3.1\Random_Fractional.genruntimeconfig.cache

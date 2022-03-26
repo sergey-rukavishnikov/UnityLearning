@@ -1,0 +1,13 @@
+C:\Users\serge\source\repos\simple_wallet\simple_wallet\bin\Debug\netcoreapp3.1\simple_wallet.exe
+C:\Users\serge\source\repos\simple_wallet\simple_wallet\bin\Debug\netcoreapp3.1\simple_wallet.deps.json
+C:\Users\serge\source\repos\simple_wallet\simple_wallet\bin\Debug\netcoreapp3.1\simple_wallet.runtimeconfig.json
+C:\Users\serge\source\repos\simple_wallet\simple_wallet\bin\Debug\netcoreapp3.1\simple_wallet.runtimeconfig.dev.json
+C:\Users\serge\source\repos\simple_wallet\simple_wallet\bin\Debug\netcoreapp3.1\simple_wallet.dll
+C:\Users\serge\source\repos\simple_wallet\simple_wallet\bin\Debug\netcoreapp3.1\simple_wallet.pdb
+C:\Users\serge\source\repos\simple_wallet\simple_wallet\obj\Debug\netcoreapp3.1\simple_wallet.csprojAssemblyReference.cache
+C:\Users\serge\source\repos\simple_wallet\simple_wallet\obj\Debug\netcoreapp3.1\simple_wallet.AssemblyInfoInputs.cache
+C:\Users\serge\source\repos\simple_wallet\simple_wallet\obj\Debug\netcoreapp3.1\simple_wallet.AssemblyInfo.cs
+C:\Users\serge\source\repos\simple_wallet\simple_wallet\obj\Debug\netcoreapp3.1\simple_wallet.csproj.CoreCompileInputs.cache
+C:\Users\serge\source\repos\simple_wallet\simple_wallet\obj\Debug\netcoreapp3.1\simple_wallet.dll
+C:\Users\serge\source\repos\simple_wallet\simple_wallet\obj\Debug\netcoreapp3.1\simple_wallet.pdb
+C:\Users\serge\source\repos\simple_wallet\simple_wallet\obj\Debug\netcoreapp3.1\simple_wallet.genruntimeconfig.cache

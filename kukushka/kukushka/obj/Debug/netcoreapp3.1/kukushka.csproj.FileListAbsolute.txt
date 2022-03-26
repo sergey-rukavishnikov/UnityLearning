@@ -1,0 +1,13 @@
+C:\Users\serge\source\repos\kukushka\kukushka\obj\Debug\netcoreapp3.1\kukushka.csprojAssemblyReference.cache
+C:\Users\serge\source\repos\kukushka\kukushka\obj\Debug\netcoreapp3.1\kukushka.AssemblyInfoInputs.cache
+C:\Users\serge\source\repos\kukushka\kukushka\obj\Debug\netcoreapp3.1\kukushka.AssemblyInfo.cs
+C:\Users\serge\source\repos\kukushka\kukushka\obj\Debug\netcoreapp3.1\kukushka.csproj.CoreCompileInputs.cache
+C:\Users\serge\source\repos\kukushka\kukushka\bin\Debug\netcoreapp3.1\kukushka.exe
+C:\Users\serge\source\repos\kukushka\kukushka\bin\Debug\netcoreapp3.1\kukushka.deps.json
+C:\Users\serge\source\repos\kukushka\kukushka\bin\Debug\netcoreapp3.1\kukushka.runtimeconfig.json
+C:\Users\serge\source\repos\kukushka\kukushka\bin\Debug\netcoreapp3.1\kukushka.runtimeconfig.dev.json
+C:\Users\serge\source\repos\kukushka\kukushka\bin\Debug\netcoreapp3.1\kukushka.dll
+C:\Users\serge\source\repos\kukushka\kukushka\bin\Debug\netcoreapp3.1\kukushka.pdb
+C:\Users\serge\source\repos\kukushka\kukushka\obj\Debug\netcoreapp3.1\kukushka.dll
+C:\Users\serge\source\repos\kukushka\kukushka\obj\Debug\netcoreapp3.1\kukushka.pdb
+C:\Users\serge\source\repos\kukushka\kukushka\obj\Debug\netcoreapp3.1\kukushka.genruntimeconfig.cache
